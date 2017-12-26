@@ -1,2 +1,2 @@
 # tank
-The solution to the thank problem using simulink
+The solution to the tank problem using simulink
